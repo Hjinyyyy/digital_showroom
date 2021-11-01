@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1635405244256,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1635492452840,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,9 +21,8 @@\n \t\t<link rel=\"canonical\" href=\"\" />\r\n \t\t<link rel=\"icon\" href=\"../digital_showroom/image/favicons/favicon-16.png\" sizes=\"16x16\" />\r\n \t\t<link rel=\"icon\" href=\"../digital_showroom/image/favicons/favicon-32.png\" sizes=\"32x32\" />\r\n \t\t<link rel=\"apple-touch-icon\" href=\"../digital_showroom/image/favicons/favicon-180.png\" sizes=\"180x180\" />\r\n-\r\n \t\t\r\n \t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../digital_showroom/css/default.css\">\r\n \t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../digital_showroom/css/slim_showroom.css\">\r\n \r\n"
                 }
             ],
             "date": 1635405244256,
